@@ -1,0 +1,145 @@
+.contenedor {
+    margin: 0;
+}
+
+.IMAGENES {
+    width: 200px;
+    height: 75px;
+    margin: 0; 
+}
+
+.contenedor2 {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start; 
+    width: 100%; 
+    height: 75px; 
+    margin: 0; 
+    position: absolute; 
+    top: 0; 
+}
+
+.IMAGENES2 {
+    width: 275px;
+    height: 76px;
+}
+
+.contenedor3 {
+    display: flex;
+    justify-content: right; 
+    align-items: flex-start; 
+    width: 100%; 
+    height: 75px; 
+    margin: 0; 
+    position: absolute; 
+    top: 0; 
+}
+
+.IMAGENES3 {
+    width: 200px;
+    height: 75px;
+}
+.contenedor4 {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start; 
+    width: 100%; 
+    height: 75px; 
+    margin: 0; 
+    position: relative; 
+    top: 25; 
+}
+
+.IMAGENES4 {
+    width: 1300px;
+    height: 600px;
+}
+.cui {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    position: relative;
+    top: 525px; 
+}
+
+.GIF {
+    width: 1300px;
+    height: 300px;
+}
+
+.cui2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    position: relative;
+    top: 540px; 
+}
+
+.gif2 {
+    width: 1300px;
+    height: 300px;
+}
+
+.cui3 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    position: relative;
+    top: 575px; 
+}
+
+.gif3 {
+    width: 1300px;
+    height: 300px;
+}
+
+.cui4 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    position: relative;
+    top: 600px; 
+}
+
+.gif4 {
+    width: 1300px;
+    height: 300px;
+}
+
+.cui5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    position: relative;
+    top: 600px; 
+}
+
+.gif5 {
+    width: 1300px;
+    height: 300px;
+}
+
+
+@media (min-width:600px){
+        header{
+            flex-direction: row;
+            padding: 0px 30px;
+            justify-content: space-between;
+        }
+
+}
